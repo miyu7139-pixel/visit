@@ -1,0 +1,6 @@
+{
+  "name": "스프레드시트 롤링페이퍼 - 초간단 구글 시트 방명록",
+  "description": "구글 스프레드시트를 실시간 데이터베이스로 사용하는 예쁘고 편리한 방명록 & 응원 게시판 웹앱입니다. Apps Script 연동 가이드 및 API 코드 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
